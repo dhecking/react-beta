@@ -1,7 +1,7 @@
 {
-  "name": "react-beta",
+  "name": "@appeligo/react-beta",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://dhecking.github.io/react-beta",
   "dependencies": {
     "react": "^16.5.2",
@@ -27,5 +27,13 @@
   ],
   "devDependencies": {
     "gh-pages": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhecking/react-beta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhecking/react-beta/issues",
+    "email": "dhecking@gmail.com"
   }
 }
